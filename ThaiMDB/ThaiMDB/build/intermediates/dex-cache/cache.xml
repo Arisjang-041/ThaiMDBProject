@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/spectrum/AndroidStudioProjects/ThaiMDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="546bbb123f94740b947908d037517aa12e7e9644">
+        <dex dex="/Users/spectrum/AndroidStudioProjects/ThaiMDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5f957ce1c2854cc0d0b3528e210de5f0ec4c74c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spectrum/AndroidStudioProjects/ThaiMDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/spectrum/AndroidStudioProjects/ThaiMDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_382d66fcf732863e3bec3e4900e1d42c32ca4199/classes.dex" />
+    </item>
+
+</items>
